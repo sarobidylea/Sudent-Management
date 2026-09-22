@@ -1,0 +1,4 @@
+matricule;nom;prenom;dateNaissance;email;telephone;parcours;anneeUniversitaire;statut
+ETU001;RAKOTO;ANDRY;12/05/2002;andry@gmail.com;03441344555;Informatique;2025-2026;Actif
+ETU002;RAVAO;ANDY;01/03/2005;andy@gmail.com;03455644555;Paramedecine;2025-2026;Actif
+ETU003;RASOA;BERA;11/09/2007;bera@gmail.com;03441357775;Science sociale;2025-2026;Actif

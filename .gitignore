@@ -1,0 +1,7 @@
+.idea/
+*.class
+out/
+build/
+dist/
+target/
+.DS_Store
